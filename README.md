@@ -1,2 +1,2 @@
-# gophercises
+# Gophercises
 Learning projects made using go
